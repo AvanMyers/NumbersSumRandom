@@ -10,14 +10,16 @@ namespace NumbersSumRandom
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
+            Random random = new Random();
             string savedNumbers = "";
             int sumNumbers = 0;
             int number;
+            int minRandomNumber = 0;
+            int maxRandomNumber = 100;
             int multipelThree = 3;
             int multipelFive = 5;
 
-            number = rand.Next(0, 100);
+            number = random.Next(minRandomNumber, maxRandomNumber);
 
             for (int i = number; i >= 0; i--) { 
                 if(i % multipelThree == 0 || i % multipelFive == 0)
