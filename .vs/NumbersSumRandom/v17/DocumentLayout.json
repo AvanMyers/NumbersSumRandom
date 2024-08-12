@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smail\\source\\repos\\NumbersSumRandom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4885A3-BA25-4363-A600-44D7A8DEA3C2}|NumbersSumRandom\\NumbersSumRandom.csproj|c:\\users\\smail\\source\\repos\\numberssumrandom\\numberssumrandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4885A3-BA25-4363-A600-44D7A8DEA3C2}|NumbersSumRandom\\NumbersSumRandom.csproj|solutionrelative:numberssumrandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smail\\source\\repos\\NumbersSumRandom\\NumbersSumRandom\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersSumRandom\\Program.cs",
+              "ToolTip": "C:\\Users\\smail\\source\\repos\\NumbersSumRandom\\NumbersSumRandom\\Program.cs",
+              "RelativeToolTip": "NumbersSumRandom\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:20:35.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

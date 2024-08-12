@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\bin\Debug\NumbersSumRandom.exe.config
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\bin\Debug\NumbersSumRandom.exe
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\bin\Debug\NumbersSumRandom.pdb
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\obj\Debug\NumbersSumRandom.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\obj\Debug\NumbersSumRandom.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\obj\Debug\NumbersSumRandom.exe
+C:\Users\smail\source\repos\NumbersSumRandom\NumbersSumRandom\obj\Debug\NumbersSumRandom.pdb
