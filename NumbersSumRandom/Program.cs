@@ -12,13 +12,14 @@ namespace NumbersSumRandom
             int number;
             int minRandomNumber = 0;
             int maxRandomNumber = 100;
-            int multipelThree = 3;
-            int multipelFive = 5;
+            int FirstMultipelNumber = 3;
+            int SecondmultipeNumber = 5;
 
             number = random.Next(minRandomNumber, maxRandomNumber);
 
-            for (int i = number; i >= 0; i--) { 
-                if(i % multipelThree == 0 || i % multipelFive == 0)
+            for (int i = number; i >= 0; i--)
+            {
+                if (i % FirstMultipelNumber == 0 || i % SecondmultipeNumber == 0)
                 {
                     savedNumbers += Convert.ToString(i) + " ";
                     sumNumbers += i;
